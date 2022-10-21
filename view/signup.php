@@ -1,29 +1,23 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Medical System - Inicio de Sesión</title>
-
-    <link href="public/img/favicon.ico" rel="icon">
-
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;600;700&display=swap" rel="stylesheet">
-    
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-    <link href="public/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="public/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css" rel="stylesheet" />
-
-    <link href="public/css/bootstrap.min.css" rel="stylesheet">
-
-    <link href="public/css/theme.css" rel="stylesheet" />
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Medical System - Inicio de Sesión</title>
+  <link rel="apple-touch-icon" sizes="180x180" href="public/img/logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="public/img/logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="public/img/logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="public/img/logo.png">
+  <link rel="manifest" href="public/img/favicons/manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <link href="public/css/theme.css" rel="stylesheet"/>
 </head>
 
 <body> 
+    <?php
+      require_once 'view/template/header.php';
+      ?>
     <div class="container-xxl position-relative bg-white d-flex p-0">
         <div id="spinner" class="show bg-white position-fixed translate-middle w-100 vh-100 top-50 start-50 d-flex align-items-center justify-content-center" method="POST" action="./?op=acceder" >
             <div class="spinner-border text-primary" style="width: 3rem; height: 3rem;" role="status">
@@ -62,17 +56,16 @@
             </div>
         </div>
     </div>
-
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="public/lib/chart/chart.min.js"></script>
-    <script src="public/lib/easing/easing.min.js"></script>
-    <script src="public/lib/waypoints/waypoints.min.js"></script>
-    <script src="public/lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="public/lib/tempusdominus/js/moment.min.js"></script>
-    <script src="public/lib/tempusdominus/js/moment-timezone.min.js"></script>
-    <script src="public/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"></script>
-
-    <script src="public/js/main.js"></script>
+    <script src="public/js/vendors/@popperjs/popper.min.js"></script>
+    <script src="public/js/vendors/bootstrap/bootstrap.min.js"></script>
+    <script src="public/js/vendors/is/is.min.js"></script>
+    <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
+    <script src="public/js/vendors/fontawesome/all.min.js"></script>
+    <script src="public/js/theme.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100&amp;display=swap" rel="stylesheet">
 </body>
 </html>

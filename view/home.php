@@ -5,33 +5,20 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Medical System</title>
-
-    <link rel="apple-touch-icon" sizes="180x180" href="">
-    <link rel="icon" type="image/png" sizes="32x32" href="">
-    <link rel="icon" type="image/png" sizes="16x16" href="">
-    <link rel="shortcut icon" type="image/x-icon" href="">
-    <link rel="manifest" href="public/img/favicons/manifest.json">
-    <meta name="msapplication-TileImage" content="">
-    <meta name="theme-color" content="#ffffff">
-    <link href="public/css/theme.css" rel="stylesheet"/>  
+  <link rel="apple-touch-icon" sizes="180x180" href="public/img/logo.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="public/img/logo.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="public/img/logo.png">
+  <link rel="shortcut icon" type="image/x-icon" href="public/img/logo.png">
+  <link rel="manifest" href="public/img/favicons/manifest.json">
+  <meta name="theme-color" content="#ffffff">
+  <link href="public/css/theme.css" rel="stylesheet"/>  
   </head>
 
   <body>
     <main class="main" id="top">
-      <nav class="navbar navbar-expand-lg navbar-light fixed-top py-3 d-block" data-navbar-on-scroll="data-navbar-on-scroll">
-        <div class="container"><a class="navbar-brand" href="index.html"><img src="" width="118" alt="logo" /></a>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"> </span></button>
-          <div class="collapse navbar-collapse border-top border-lg-0 mt-4 mt-lg-0" id="navbarSupportedContent">
-            <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
-              <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="#about">Sobre Nosotros</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#departments">Departamentos</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#signup">Registros</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#findUs">Ayuda</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#findUs">Contactos</a></li>
-            </ul><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="?op=crear">Ingresar</a>
-        </div>
-      </div>
-      </nav>
+      <?php
+      require_once 'view/template/header.php';
+      ?>
       <section class="py-xxl-10 pb-0" id="home">
         <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/hero-bg.png);background-position:top center;background-size:cover;">
         </div>
@@ -40,8 +27,8 @@
           <div class="row min-vh-xl-100 min-vh-xxl-25">
             <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img class="pt-7 pt-md-0 w-100" src="public/img/gallery/hero.png" alt="hero-header" /></div>
             <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-6">
-              <h1 class="fw-light font-base fs-6 fs-xxl-7">Siempre <strong>trabajando </strong>por<br />contribuir <strong>una mejora en tu salud.</strong></h1>
-              <p class="fs-1 mb-5">Puedes obtener atención  24-7. <br />Serás tratado por doctores especialistas. </p><a class="btn btn-lg btn-primary rounded-pill" href="#cita" role="button">Agendar una Cita</a>
+              <h1 class="fw-light font-base fs-6 fs-xxl-7">Siempre <strong>trabajando</strong> por contribuir <strong>una mejora en tu salud.</strong></h1>
+              <p class="fs-1 mb-5">Puedes obtener atención  24/7 y ser tratado por <br/>los doctores más especializados de todo el país. </p><a class="btn btn-lg btn-primary rounded-pill" href="#cita" role="button">Agendar una Cita</a>
             </div>
           </div>
         </div>
@@ -67,9 +54,9 @@
             <div class="col-md-6 order-lg-1 mb-5 mb-lg-0"><img class="fit-cover rounded-circle w-100" src="public/img/gallery/health-care.png" alt="..." /></div>
             <div class="col-md-6 text-center text-md-start">
               <h2 class="fw-bold mb-4">Estamos desarrollando un <br class="d-none d-sm-block" />sistemas de cuidados para tí</h2>
-              <p>We think that everyone should have easy access to excellent <br class="d-none d-sm-block" />healthcare. Our aim is to make the procedure as simple as <br class="d-none d-sm-block" />possible for our patients and to offer treatment no matter<br class="d-none d-sm-block" />where they are — in person or at their convenience. </p>
+              <p>Somos fieles creyentes de que todos merecemos la mejor atención<br class="d-none d-sm-block" />médica. Tratamos de hacer lo mejor posible por cuidar vidas<br class="d-none d-sm-block" />y que nuestros pacientes puedan tener la tranquilidad de garantizar su salud con nosotros.
               <div class="py-3">
-                <button class="btn btn-lg btn-outline-primary rounded-pill" type="submit">Learn more </button>
+                <button class="btn btn-lg btn-outline-primary rounded-pill" type="submit">Saber Más </button>
               </div>
             </div>
           </div>
@@ -182,7 +169,7 @@
                             <p class="text-600 mb-0">Florida, United States</p>
                             <p class="text-600 mb-4">10 years experience</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">View Profile</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -195,7 +182,7 @@
                             <p class="text-600 mb-0">, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">View Profile</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -251,7 +238,7 @@
                             <p class="text-600 mb-0">London, Panamá</p>
                             <p class="text-600 mb-4">25 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Vier Pefil</button>
+                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -268,7 +255,7 @@
                             <p class="text-600 mb-0">Florida, United States</p>
                             <p class="text-600 mb-4">10 years experience</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">View Profile</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -281,7 +268,7 @@
                             <p class="text-600 mb-0">Melbourne, Australia</p>
                             <p class="text-600 mb-4">12 years experience</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">View Profile</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -294,7 +281,7 @@
                             <p class="text-600 mb-0">London, England</p>
                             <p class="text-600 mb-4">25 years experience</p>
                             <div class="text-center">
-                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">View Profile</button>
+                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -308,14 +295,14 @@
         </div>
       </section>
 
+      <!-- AGENDAR CITA -->
       <section class="py-5" id="cita">
-
         <div class="container">
           <div class="row">
             <div class="col-12 py-3">
               <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/people.png);background-position:top center;background-size:contain;">
               </div>
-              <h1 class="text-center">REGISTRATE</h1>
+              <h1 class="text-center">AGENDA TU CITA CON NOSOTROS</h1>
             </div>
           </div>
         </div>
@@ -332,27 +319,27 @@
               <form class="row g-3">
               <div class="col-md-6">
                   <label class="visually-hidden" for="inputName">Nombre</label>
-                  <input class="form-control form-livedoc-control" id="inputName" type="text" placeholder="Nombre" />
+                  <input class="form-control form-livedoc-control" id="inputName" type="text" placeholder="Nombre" required/>
                 </div>
                 <div class="col-md-6">
                   <label class="visually-hidden" for="inputLastName">Apellido</label>
-                  <input class="form-control form-livedoc-control" id="inputLastName" type="text" placeholder="Apellido" />
+                  <input class="form-control form-livedoc-control" id="inputLastName" type="text" placeholder="Apellido" required/>
                 </div>
                 <div class="col-md-6">
                   <label class="visually-hidden" for="inputID">Cédula</label>
-                  <input class="form-control form-livedoc-control" id="inputID" type="text" placeholder="Cédula" />
+                  <input class="form-control form-livedoc-control" id="inputID" type="text" placeholder="Cédula" required/>
                 </div>
                 <div class="col-md-6">
                   <label class="visually-hidden" for="inputPhone">Teléfono</label>
-                  <input class="form-control form-livedoc-control" id="inputPhone" type="text" placeholder="Teléfono" />
+                  <input class="form-control form-livedoc-control" id="inputPhone" type="text" placeholder="Teléfono" required/>
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputEmail">Correo</label>
-                  <input class="form-control form-livedoc-control" id="inputEmail" type="email" placeholder="Correo"/>
+                  <input class="form-control form-livedoc-control" id="inputEmail" type="email" placeholder="Correo" required/>
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputCategory">Especialidad</label>
-                  <select class="form-select" id="inputCategory">
+                  <select class="form-select" id="inputCategory" required>
                     <option selected="selected">Especialidad</option>
                     <option> Neurología</option>
                     <option> Oftalmología</option>
@@ -364,7 +351,7 @@
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputCategory">Horario de Preferencia</label>
-                  <select class="form-select" id="inputCategory">
+                  <select class="form-select" id="inputCategory" type="select" required>
                     <option selected="selected">Horario</option>
                     <option> AM</option>
                     <option> PM</option>
@@ -372,7 +359,7 @@
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputCategory">Sede de Preferencia</label>
-                  <select class="form-select" id="inputCategory">
+                  <select class="form-select" id="inputCategory" type="select" required>
                     <option selected="selected">Sede</option>
                     <option> Pedregal</option>
                     <option> Paitilla</option>
@@ -383,15 +370,15 @@
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputCategory">Tipo de cita</label>
-                  <select class="form-select" id="inputCategory">
-                    <option selected="selected">Tipo</option>
-                    <option> Primera Vez</option>
-                    <option> Control</option>
+                  <select class="form-select" id="type" name="type" onchange="mostrar()" required>
+                    <option value="selected" selected="selected">Tipo</option>
+                    <option value="firstTime"> Primera Vez</option>
+                    <option value="control"> Control</option>
                   </select>
                 </div>
                 <div class="col-md-6">
                   <label class="form-label visually-hidden" for="inputCategory">Médico especialista</label>
-                  <select class="form-select" id="inputCategory">
+                  <select class="form-select" id="medico" required>
                     <option selected="selected">Médico</option>
                     <option> Luis Díaz</option>
                     <option> José Mendéz</option>
@@ -586,24 +573,11 @@
         </div>
 
         <!-- footer -->
-        <section class="py-0 bg-primary">
-          <div class="container">
-            <div class="row justify-content-md-between justify-content-evenly py-4">
-              <div class="col-12 col-sm-8 col-md-6 col-lg-auto text-center text-md-start">
-                <p class="fs--1 my-2 fw-bold text-200">All rights Reserved &copy; UTP, 2022</p>
-              </div>
-              <div class="col-12 col-sm-8 col-md-6">
-                <p class="fs--1 my-2 text-center text-md-end text-200">
-                  <svg class="bi bi-suit-heart-fill" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="#F95C19" viewBox="0 0 16 16">
-                  </svg><a class="fw-bold text-info" href="" target="_blank">Universidad Tecnológica de Panamá</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
+        <?php
+        require_once 'view/template/footer.php';
+        ?>
       </section>
     </main>
-
     <script src="public/js/vendors/@popperjs/popper.min.js"></script>
     <script src="public/js/vendors/bootstrap/bootstrap.min.js"></script>
     <script src="public/js/vendors/is/is.min.js"></script>
@@ -611,7 +585,7 @@
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
     <script src="public/js/vendors/fontawesome/all.min.js"></script>
     <script src="public/js/theme.js"></script>
-
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Fjalla+One&amp;family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100&amp;display=swap" rel="stylesheet">
