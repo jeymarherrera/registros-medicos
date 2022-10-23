@@ -54,7 +54,7 @@
             <div class="col-md-6 order-lg-1 mb-5 mb-lg-0"><img class="fit-cover rounded-circle w-100" src="public/img/gallery/health-care.png" alt="..." /></div>
             <div class="col-md-6 text-center text-md-start">
               <h2 class="fw-bold mb-4">Estamos desarrollando un <br class="d-none d-sm-block" />sistemas de cuidados para tí</h2>
-              <p>Somos fieles creyentes de que todos merecemos la mejor atención<br class="d-none d-sm-block" />médica. Tratamos de hacer lo mejor posible por cuidar vidas<br class="d-none d-sm-block" />y que nuestros pacientes puedan tener la tranquilidad de garantizar su salud con nosotros.
+              <p>Somos fieles creyentes de que todos merecemos la mejor atención<br class="d-none d-sm-block" />médica. Tratamos de hacer lo mejor posible por cuidar vidas<br class="d-none d-sm-block"/> y que nuestros pacientes puedan tener la tranquilidad de garantizar su salud con nosotros.
               <div class="py-3">
                 <button class="btn btn-lg btn-outline-primary rounded-pill" type="submit">Saber Más </button>
               </div>
@@ -132,7 +132,7 @@
             <div class="col-md-5 col-xxl-6"><img class="img-fluid" src="public/img/gallery/eye-care.png" alt="..." /></div>
             <div class="col-md-7 col-xxl-6 text-center text-md-start">
               <h2 class="fw-bold text-light mb-4 mt-4 mt-lg-0">Cuida de tu vista con profesionales<br class="d-none d-sm-block" />y en cuenta.</h2>
-              <p class="text-light">We've built a healthcare system that puts your needs first.<br class="d-none d-sm-block" />For us, there is nothing more important than the health of <br class="d-none d-sm-block" />you and your loved ones. </p>
+              <p class="text-light">Hemos creado un sistema de atención médica que prioriza sus necesidades.<br class="d-none d-sm-block" />Para nosotros, no hay nada más importante que su salud <br class="d-none d-sm-block" /> y la de sus seres queridos. </p>
               <div class="py-3"><a class="btn btn-lg btn-light rounded-pill" href="#!" role="button">Ver más </a></div>
             </div>
           </div>
@@ -164,10 +164,10 @@
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/anita.png" width="128" alt="..." />
-                            <h5 class="mt-3">Anita Deshai</h5>
-                            <p class="mb-0 fs-xxl-1">Pediatrics, Gochi Medicine</p>
-                            <p class="text-600 mb-0">Florida, United States</p>
-                            <p class="text-600 mb-4">10 years experience</p>
+                            <h5 class="mt-3">Rosa J. Vargas</h5>
+                            <p class="mb-0 fs-xxl-1">Neurologa, Gochi Medicine</p>
+                            <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
+                            <p class="text-600 mb-4">10 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
@@ -178,7 +178,7 @@
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/jane.png" width="128" alt="..." />
                             <h5 class="mt-3">Jane Flakis</h5>
-                            <p class="mb-0 fs-xxl-1">Gynaecology, Oftamologo</p>
+                            <p class="mb-0 fs-xxl-1">Gynaecology, Oftalmólogo</p>
                             <p class="text-600 mb-0">, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
@@ -222,7 +222,7 @@
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/jane.png" width="128" alt="..." />
                             <h5 class="mt-3">Jane Flakis</h5>
                             <p class="mb-0 fs-xxl-1">Gynaecology, Abenka Care</p>
-                            <p class="text-600 mb-0">Melbourne, Australia</p>
+                            <p class="text-600 mb-0">Pedregal, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
@@ -234,8 +234,8 @@
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/leo-mario.png" width="128" alt="..." />
                             <h5 class="mt-3">Leo Mario</h5>
-                            <p class="mb-0 fs-xxl-1">Physiotherapy, FitCare</p>
-                            <p class="text-600 mb-0">London, Panamá</p>
+                            <p class="mb-0 fs-xxl-1">Fisioterapia, FitCare</p>
+                            <p class="text-600 mb-0">San Francisco, Panamá</p>
                             <p class="text-600 mb-4">25 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
@@ -463,6 +463,8 @@
           </div>
         </div>
       </section> 
+
+      
       <section class="py-5">
 
         <div class="container">
