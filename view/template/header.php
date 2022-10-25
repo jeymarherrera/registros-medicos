@@ -5,9 +5,9 @@
             <ul class="navbar-nav ms-auto pt-2 pt-lg-0 font-base">
               <li class="nav-item px-2"><a class="nav-link" aria-current="page" href="#about">Sobre Nosotros</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#departments">Departamentos</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#findUs">Información</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#departments">Médicos</a></li>
-              <li class="nav-item px-2"><a class="nav-link" href="#signup">Blog</a></li>
+              <li class="nav-item px-2"><a class="nav-link" href="#info">Información</a></li>
+              <li class="nav-item px-2"><a class="nav-link" href="#medicos">Médicos</a></li>
+              <li class="nav-item px-2"><a class="nav-link" href="#blog">Blog</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#findUs">Contactos</a></li>
             </ul><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="?op=agendar">Agendar Cita</a>
         </div>

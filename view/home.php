@@ -28,7 +28,7 @@
             <div class="col-md-5 col-xl-6 col-xxl-7 order-0 order-md-1 text-end"><img class="pt-7 pt-md-0 w-100" src="public/img/gallery/hero.png" alt="hero-header" /></div>
             <div class="col-md-75 col-xl-6 col-xxl-5 text-md-start text-center py-6">
               <h1 class="fw-light font-base fs-6 fs-xxl-7">Siempre <strong>trabajando</strong> por contribuir <strong>una mejora en tu salud.</strong></h1>
-              <p class="fs-1 mb-5">Puedes obtener atención  24/7 y ser tratado por <br/>los doctores más especializados de todo el país. </p><a class="btn btn-lg btn-primary rounded-pill" href="#cita" role="button">Agendar una Cita</a>
+              <p class="fs-1 mb-5">Puedes obtener atención  24/7 y ser tratado por <br/>los doctores más especializados de todo el país. </p><a class="btn btn-lg btn-primary rounded-pill" href="?op=agendar" role="button">Agendar una Cita</a>
             </div>
           </div>
         </div>
@@ -38,7 +38,6 @@
         <div class="container">
           <div class="row">
             <div class="col-12 py-3">
-              <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/about-us.png);background-position:top center;background-size:contain;">
               </div>
               <h1 class="text-center">SOBRE NOSOTROS</h1>
             </div>
@@ -67,7 +66,6 @@
         <div class="container">
           <div class="row">
             <div class="col-12 py-3">
-              <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/bg-departments.png);background-position:top center;background-size:contain;">
               </div>
               <h1 class="text-center">NUESTROS DEPARTAMENTOS</h1>
             </div>
@@ -123,7 +121,7 @@
         </div>
 
       </section>
-      <section class="bg-secondary">
+      <section class="bg-secondary" id="info">
         <div class="bg-holder" style="background-image:url(public/img/gallery/bg-eye-care.png);background-position:center;background-size:contain;">
         </div>
 
@@ -131,9 +129,8 @@
           <div class="row align-items-center">
             <div class="col-md-5 col-xxl-6"><img class="img-fluid" src="public/img/gallery/eye-care.png" alt="..." /></div>
             <div class="col-md-7 col-xxl-6 text-center text-md-start">
-              <h2 class="fw-bold text-light mb-4 mt-4 mt-lg-0">Cuida de tu vista con profesionales<br class="d-none d-sm-block" />y en cuenta.</h2>
-              <p class="text-light">Hemos creado un sistema de atención médica que prioriza sus necesidades.<br class="d-none d-sm-block" />Para nosotros, no hay nada más importante que su salud <br class="d-none d-sm-block" /> y la de sus seres queridos. </p>
-              <div class="py-3"><a class="btn btn-lg btn-light rounded-pill" href="#!" role="button">Ver más </a></div>
+              <h2 class="fw-bold text-light mb-4 mt-4 mt-lg-0">Horario de Atención<br class="d-none d-sm-block" /></h2>
+              <p class="text-light">“Servir con eficiencia, calidad y humanismo a todos los panameños” <br><br class="d-none d-sm-block" />- De 6:00 a.m. a 12:00 p.m. <br><br> Se darán citas médicas de todas las especialidades ofrecidas, en la Consulta Externa a TODO PÚBLICO, que cumpla con los requisitos mencionados. <br><br class="d-none d-sm-block" />- De 12:00 p.m. a 3:00 p.m. <br><br> Se dará cita a todos los pacientes que hayan sido atendidos, el mismo día, en la Consulta Externa del Hospital Santo Tomás. Como también a los pacientes de Sala de Hospitalización y Urgencias, que se les dio salida el mismo día. </p>
             </div>
           </div>
         </div>
@@ -151,7 +148,7 @@
           </div>
         </div>
       </section>
-      <section class="py-5">
+      <section class="py-5" id="medicos">
         <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/doctors-bg.png);background-position:top center;background-size:contain;">
         </div>
         <div class="container">
@@ -163,9 +160,9 @@
                     <div class="row h-100 m-lg-7 mx-3 mt-6 mx-md-4 my-md-7">
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/1.jpg.png" width="128" alt="..." />
                             <h5 class="mt-3">Rosa J. Vargas</h5>
-                            <p class="mb-0 fs-xxl-1">Neurologa</p>
+                            <p class="mb-0 fs-xxl-1">Neurología</p>
                             <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
                             <p class="text-600 mb-4">17 años de experiencia</p>
                             <div class="text-center">
@@ -176,9 +173,9 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/2.jpg.png" width="128" alt="..." />
                             <h5 class="mt-3">Andreina Peréz</h5>
-                            <p class="mb-0 fs-xxl-1">Oftalmólogo</p>
+                            <p class="mb-0 fs-xxl-1">Oftalmología</p>
                             <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
@@ -189,13 +186,13 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
-                            <h5 class="mt-3">Luis Suarez</h5>
-                            <p class="mb-0 fs-xxl-1">Dermatologo</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/3.jpg.png" width="128" alt="..." />
+                            <h5 class="mt-3">Luisa Suarez</h5>
+                            <p class="mb-0 fs-xxl-1">Cardiología</p>
                             <p class="text-600 mb-0">Pedregal, Panamá</p>
-                            <p class="text-600 mb-4">25 años de experiencia</p>
+                            <p class="text-600 mb-4">13 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Perfil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
                             </div>
                           </div>
                         </div>
@@ -206,9 +203,9 @@
                     <div class="row h-100 m-lg-7 mx-3 mt-6 mx-md-4 my-md-7">
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/anita.png" width="128" alt="..." />
-                            <h5 class="mt-3">Andres Herrera</h5>
-                            <p class="mb-0 fs-xxl-1">Urologo</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/4.jpg.png" width="128" alt="..." />
+                            <h5 class="mt-3">Andrea Herrera</h5>
+                            <p class="mb-0 fs-xxl-1">Otorrinología</p>
                             <p class="text-600 mb-0">Costa del Este, Panamá</p>
                             <p class="text-600 mb-4">5 años de experiencia</p>
                             <div class="text-center">
@@ -219,11 +216,11 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
-                            <h5 class="mt-3">Fabio Alexandre</h5>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/5.jpg.png"width="128" alt="..." />
+                            <h5 class="mt-3">Fabiana Alexandre</h5>
                             <p class="mb-0 fs-xxl-1">Medicina General</p>
                             <p class="text-600 mb-0">Pedregal, Panamá</p>
-                            <p class="text-600 mb-4">12 años de experiencia</p>
+                            <p class="text-600 mb-4">11 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
                             </div>
@@ -232,13 +229,13 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/6.jpg.png"width="128" alt="..." />
                             <h5 class="mt-3">Mario Vargas</h5>
-                            <p class="mb-0 fs-xxl-1">Fisioterapeuta</p>
+                            <p class="mb-0 fs-xxl-1">Radiología</p>
                             <p class="text-600 mb-0">San Fernando, Panamá</p>
-                            <p class="text-600 mb-4">25 años de experiencia</p>
+                            <p class="text-600 mb-4">6 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -249,11 +246,11 @@
                     <div class="row h-100 m-lg-7 mx-3 mt-6 mx-md-4 my-md-7">
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
-                            <h5 class="mt-3">Ana Rodriguez</h5>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/7.jpg.png" width="128" alt="..." />
+                            <h5 class="mt-3">Angel Rodriguez</h5>
                             <p class="mb-0 fs-xxl-1">Neumología</p>
                             <p class="text-600 mb-0">Paitilla, Panamá</p>
-                            <p class="text-600 mb-4">10 años de experiencia</p>
+                            <p class="text-600 mb-4">4 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
@@ -262,9 +259,9 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/1.jpg.png" width="128" alt="..." />
                             <h5 class="mt-3">Maria Barrios</h5>
-                            <p class="mb-0 fs-xxl-1">Pediatra</p>
+                            <p class="mb-0 fs-xxl-1">Osteoporosis</p>
                             <p class="text-600 mb-0">San Antonio, Panamá</p>
                             <p class="text-600 mb-4">11 años de experiencia</p>
                             <div class="text-center">
@@ -275,13 +272,13 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/6.jpg.png"width="128" alt="..." />
                             <h5 class="mt-3">Leo Mario</h5>
-                            <p class="mb-0 fs-xxl-1">Cardiologo</p>
+                            <p class="mb-0 fs-xxl-1">Cardiología</p>
                             <p class="text-600 mb-0">Chorrera, Panamá</p>
-                            <p class="text-600 mb-4">25 años de experiencia</p>
+                            <p class="text-600 mb-4">14 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -303,7 +300,7 @@
             <div class="col-12 py-3">
               <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/blog-post.png);background-position:top center;background-size:contain;">
               </div>
-              <h1 class="text-center">ARTICULOS RECIENTES</h1>
+              <h1 class="text-center">ARTÍCULOS RECIENTES</h1>
             </div>
           </div>
         </div>
@@ -322,18 +319,18 @@
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
                   </svg><span class="fs--1 text-900">Nov 21, 2022</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">COVID-19: La información más reciente</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">COVID-19: La información más reciente</h5><a class="stretched-link" href="#!">Leer artículo completo</a>
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4">
               <div class="card h-100 shadow card-span rounded-3"><img class="card-img-top rounded-top-3" src="public/img/gallery/laboratories.png" alt="news" />
-                <div class="card-body"><span class="fs--1 text-primary me-3">Estilo de Vida</span>
+                <div class="card-body"><span class="fs--1 text-primary me-3">Salud</span>
                   <svg class="bi bi-calendar2 me-2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
                   </svg><span class="fs--1 text-900">Nov 25, 2022</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Importancia de la acreditación por laboratorios</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Importancia de la acreditación por laboratorios</h5><a class="stretched-link" href="#!">Leer artículo completo</a>
                 </div>
               </div>
             </div>
@@ -344,7 +341,7 @@
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
                   </svg><span class="fs--1 text-900">Nov 28, 2022</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Los daños de la nicotina que conducen a la muerte</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Los daños de la nicotina que conducen a la muerte</h5><a class="stretched-link" href="#!">Leer artículo completo</a>
                 </div>
               </div>
             </div>
@@ -355,94 +352,13 @@
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
                   </svg><span class="fs--1 text-900">Nov 30, 2022</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Tratamiento en pacientes con diabetes en COVID-19</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Tratamiento en pacientes con diabetes en COVID-19</h5><a class="stretched-link" href="#!">Leer artículo completo</a>
                 </div>
               </div>
             </div>
           </div>
         </div>
       </section> 
-
-      
-      <section class="py-5">
-
-        <div class="container">
-          <div class="row">
-            <div class="col-12 py-3">
-              <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/people.png);background-position:top center;background-size:contain;">
-              </div>
-              <h1 class="text-center">CONTACTO</h1>
-            </div>
-          </div>
-        </div>
-      </section> 
-      
-      <section class="py-8">
-        <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/people-bg-1.png);background-position:center;background-size:cover;">
-        </div>     
-        <div class="container">
-          <div class="row align-items-center offset-sm-1">
-            <div class="carousel slide" id="carouselPeople" data-bs-ride="carousel">
-              <div class="carousel-inner">
-                <div class="carousel-item active" data-bs-interval="10000">
-                  <div class="row h-100">
-                    <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Horario de Atención</h5>
-                      <p class="fw-normal mb-0">Lunes - Domingo</p>
-                    </div>
-                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>05:00am - 2:00am</h2>
-                      <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
-                      <p></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item" data-bs-interval="2000">
-                  <div class="row h-100">
-                    <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Hopitalización</h5>
-                      <p class="fw-normal mb-0">Teléfonos y Extensiones</p>
-                    </div>
-                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>507-5719 / 507-5721 <br> 507-5720 / 507-5600</h2>
-                      <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
-                      <p></p>
-                    </div>
-                  </div>
-                </div>
-                <div class="carousel-item">
-                  <div class="row h-100">
-                    <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Laboratorio Cliníco</h5>
-                      <p class="fw-normal mb-0">Teléfonos y Extensiones</p>
-                    </div>
-                    <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>507-5713 Ext. (5713)
-                      <br> Citas: 
-                      <br>507-5714 Ext. (5714)
-                      <br>Área administrativa: 
-                      <br>507-5610 Ext. (5610)
-                      <br>507-5623 Ext. (5623) 
-                      <br>507-5627 Ext. (5627)</h2>
-                      <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
-                      <p>.</p>
-                    </div>
-                  </div>
-                </div>
-              </div>
-              <div class="row">
-                <div class="position-relative z-index-2 mt-5">
-                  <ol class="carousel-indicators">
-                    <li class="active" data-bs-target="#carouselPeople" data-bs-slide-to="0"></li>
-                    <li data-bs-target="#carouselPeople" data-bs-slide-to="1"></li>
-                    <li data-bs-target="#carouselPeople" data-bs-slide-to="2"> </li>
-                  </ol>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <!-- footer -->
       <section class="bg-primary">
@@ -456,29 +372,34 @@
         <div class="container">
           <div class="row py-8">
             <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none" href="#"><img src="" height="51" alt="" /></a>
-              <p class="text-light my-4">Lo que el mundo de la salud necesita <br />tecnología de la salud.</p>
+              <p class="text-light my-4">Lo que el mundo de la salud necesita <br/>tecnología de la salud.</p>
             </div>
             <div class="col-12 col-sm-12 col-lg-3 mb-3 order-2 order-sm-1">
               <h5 class="lh-lg fw-bold mb-4 text-light font-sans-serif">Departamentos</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
-                <li class="lh-lg"><a class="footer-link" href="#!">Oftamología</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">Neurología</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">Oftalmología</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">Radiología</a></li>
                 <li class="lh-lg"><a class="footer-link" href="#!">Cardiología</a></li>
-                <li class="lh-lg"><a class="footer-link" href="#!">Cardiología</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">Osteoporosis</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">Otorrinología</a></li>
               </ul>
             </div>
             <div class="col-12 col-sm-12 col-lg-3 mb-3 order-3 order-sm-2">
               <h5 class="lh-lg fw-bold text-light mb-4 font-sans-serif">Centrales Teléfonicos</h5>
               <ul class="list-unstyled mb-md-4 mb-lg-0">
                 <li class="lh-lg"><a class="footer-link" href="#!">Información del pacientes</a></li>
-                <li class="lh-lg"><a class="footer-link" href="#!"></a>507-5719</li>
-                <li class="lh-lg"><a class="footer-link" href="#!"></a>507-5721</li>
+                <li class="lh-lg"><a class="footer-link" href="#!">+507-6834-2342</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">+507-6313-5311</a></li>
                 <li class="lh-lg"><a class="footer-link" href="#!">Atención al Cliente</a></li>
-                <li class="lh-lg"><a class="footer-link" href="#!"></a>507-5719</li>
-                <li class="lh-lg"><a class="footer-link" href="#!"></a>507-5721</li>
+                <li class="lh-lg"><a class="footer-link" href="#!">+507-6023-4532</a></li>
+                <li class="lh-lg"><a class="footer-link" href="#!">+507-6045-2345</a></li>
               </ul>
             </div>
           </div>
         </div>
+
+
 
         <!-- footer -->
         <?php
