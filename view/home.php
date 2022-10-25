@@ -166,7 +166,7 @@
                             <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
                             <p class="text-600 mb-4">17 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type=button" href="https://www.linkedin.com/in/rosa-vargas-b7647313b/" >Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -179,7 +179,7 @@
                             <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/andreina-p%C3%A9rez-rodr%C3%ADguez/">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -192,7 +192,7 @@
                             <p class="text-600 mb-0">Pedregal, Panamá</p>
                             <p class="text-600 mb-4">13 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/luisa-suarez-a4a16729/">Ver Perfil</button>
                             </div>
                           </div>
                         </div>
@@ -209,7 +209,7 @@
                             <p class="text-600 mb-0">Costa del Este, Panamá</p>
                             <p class="text-600 mb-4">5 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/andrea-herrera-cabezas-b3519827/">Ver Perfil</button>
                             </div>
                           </div>
                         </div>
@@ -222,7 +222,7 @@
                             <p class="text-600 mb-0">Pedregal, Panamá</p>
                             <p class="text-600 mb-4">11 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/fabiana-alexandre-55766624/">Ver Perfil</button>
                             </div>
                           </div>
                         </div>
@@ -235,7 +235,7 @@
                             <p class="text-600 mb-0">San Fernando, Panamá</p>
                             <p class="text-600 mb-4">6 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/mario-hugo-vargas-aquino-55197033/">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -252,7 +252,7 @@
                             <p class="text-600 mb-0">Paitilla, Panamá</p>
                             <p class="text-600 mb-4">4 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/angel-rodr%C3%ADguez-809638180/">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -260,12 +260,12 @@
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/1.jpg.png" width="128" alt="..." />
-                            <h5 class="mt-3">Maria Barrios</h5>
+                            <h5 class="mt-3">Marina Barrios</h5>
                             <p class="mb-0 fs-xxl-1">Osteoporosis</p>
                             <p class="text-600 mb-0">San Antonio, Panamá</p>
                             <p class="text-600 mb-4">11 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/minabarrio/">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -273,12 +273,12 @@
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/6.jpg.png"width="128" alt="..." />
-                            <h5 class="mt-3">Leo Mario</h5>
+                            <h5 class="mt-3">Mario Leo</h5>
                             <p class="mb-0 fs-xxl-1">Cardiología</p>
                             <p class="text-600 mb-0">Chorrera, Panamá</p>
                             <p class="text-600 mb-4">14 años de experiencia</p>
                             <div class="text-center">
-                              <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
+                              <button class="btn btn-outline-secondary rounded-pill" type="button" href="https://www.linkedin.com/in/mario-leo-avila/">Ver Pefil</button>
                             </div>
                           </div>
                         </div>
@@ -291,8 +291,6 @@
           </div>
         </div>
       </section>
-
-
 
       <section class="py-5" id="blog">
         <div class="container">
@@ -398,8 +396,6 @@
             </div>
           </div>
         </div>
-
-
 
         <!-- footer -->
         <?php
