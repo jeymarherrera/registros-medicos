@@ -1,4 +1,4 @@
-/********** Template CSS **********/
+
 :root {
     --primary: #009CFF;
     --light: #F3F6F9;
@@ -13,8 +13,12 @@
     z-index: 99;
 }
 
+body{
+    margin: 0;
+}
 
-/*** Spinner ***/
+
+/* Spinner */
 #spinner {
     opacity: 0;
     visibility: hidden;
@@ -29,7 +33,7 @@
 }
 
 
-/*** Button ***/
+/* Button */
 .btn {
     transition: .5s;
 }
@@ -64,8 +68,14 @@
     border-radius: 50px;
 }
 
+.bg-primary{
+    bottom: 0!important;
+    position: fixed!important;
+    min-height: 70px;
+    width: 100%!important;
+}
 
-/*** Layout ***/
+/* Layout */
 .sidebar {
     position: fixed;
     top: 0;
@@ -121,7 +131,7 @@
 }
 
 
-/*** Navbar ***/
+/* Navbar */
 .sidebar .navbar .navbar-nav .nav-link {
     padding: 7px 20px;
     color: var(--dark);
@@ -245,14 +255,14 @@
 }
 
 
-/*** Testimonial ***/
+/* Testimonial */
 .progress .progress-bar {
     width: 0px;
     transition: 2s;
 }
 
 
-/*** Testimonial ***/
+/* Testimonial */
 .testimonial-carousel .owl-dots {
     margin-top: 24px;
     display: flex;
@@ -275,4 +285,5 @@
     background: var(--dark);
     border-color: var(--primary);
 }
+
 

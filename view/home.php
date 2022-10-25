@@ -163,11 +163,11 @@
                     <div class="row h-100 m-lg-7 mx-3 mt-6 mx-md-4 my-md-7">
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/anita.png" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
                             <h5 class="mt-3">Rosa J. Vargas</h5>
-                            <p class="mb-0 fs-xxl-1">Neurologa, Gochi Medicine</p>
+                            <p class="mb-0 fs-xxl-1">Neurologa</p>
                             <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
-                            <p class="text-600 mb-4">10 años de experiencia</p>
+                            <p class="text-600 mb-4">17 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
@@ -176,10 +176,10 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/jane.png" width="128" alt="..." />
-                            <h5 class="mt-3">Jane Flakis</h5>
-                            <p class="mb-0 fs-xxl-1">Gynaecology, Oftalmólogo</p>
-                            <p class="text-600 mb-0">, Panamá</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
+                            <h5 class="mt-3">Andreina Peréz</h5>
+                            <p class="mb-0 fs-xxl-1">Oftalmólogo</p>
+                            <p class="text-600 mb-0">24 de Diciembre, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
@@ -189,10 +189,10 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/leo-mario.png" width="128" alt="..." />
-                            <h5 class="mt-3">Leo Mario</h5>
-                            <p class="mb-0 fs-xxl-1">Physiotherapy, Cardiologo</p>
-                            <p class="text-600 mb-0">Paitilla, Panamá</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/doctors/" width="128" alt="..." />
+                            <h5 class="mt-3">Luis Suarez</h5>
+                            <p class="mb-0 fs-xxl-1">Dermatologo</p>
+                            <p class="text-600 mb-0">Pedregal, Panamá</p>
                             <p class="text-600 mb-4">25 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Perfil</button>
@@ -207,10 +207,10 @@
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
                           <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/anita.png" width="128" alt="..." />
-                            <h5 class="mt-3">Anita Deshai</h5>
-                            <p class="mb-0 fs-xxl-1">Pediatrics, Gochi Medicine</p>
+                            <h5 class="mt-3">Andres Herrera</h5>
+                            <p class="mb-0 fs-xxl-1">Urologo</p>
                             <p class="text-600 mb-0">Costa del Este, Panamá</p>
-                            <p class="text-600 mb-4">10 años de experiencia</p>
+                            <p class="text-600 mb-4">5 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Perfil</button>
                             </div>
@@ -219,9 +219,9 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/jane.png" width="128" alt="..." />
-                            <h5 class="mt-3">Jane Flakis</h5>
-                            <p class="mb-0 fs-xxl-1">Gynaecology, Abenka Care</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                            <h5 class="mt-3">Fabio Alexandre</h5>
+                            <p class="mb-0 fs-xxl-1">Medicina General</p>
                             <p class="text-600 mb-0">Pedregal, Panamá</p>
                             <p class="text-600 mb-4">12 años de experiencia</p>
                             <div class="text-center">
@@ -232,10 +232,10 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/leo-mario.png" width="128" alt="..." />
-                            <h5 class="mt-3">Leo Mario</h5>
-                            <p class="mb-0 fs-xxl-1">Fisioterapia, FitCare</p>
-                            <p class="text-600 mb-0">San Francisco, Panamá</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                            <h5 class="mt-3">Mario Vargas</h5>
+                            <p class="mb-0 fs-xxl-1">Fisioterapeuta</p>
+                            <p class="text-600 mb-0">San Fernando, Panamá</p>
                             <p class="text-600 mb-4">25 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
@@ -249,11 +249,11 @@
                     <div class="row h-100 m-lg-7 mx-3 mt-6 mx-md-4 my-md-7">
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/anita.png" width="128" alt="..." />
-                            <h5 class="mt-3">Anita Deshai</h5>
-                            <p class="mb-0 fs-xxl-1">Pediatrics, Gochi Medicine</p>
-                            <p class="text-600 mb-0">Florida, United States</p>
-                            <p class="text-600 mb-4">10 years experience</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                            <h5 class="mt-3">Ana Rodriguez</h5>
+                            <p class="mb-0 fs-xxl-1">Neumología</p>
+                            <p class="text-600 mb-0">Paitilla, Panamá</p>
+                            <p class="text-600 mb-4">10 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
@@ -262,11 +262,11 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/jane.png" width="128" alt="..." />
-                            <h5 class="mt-3">Jane Flakis</h5>
-                            <p class="mb-0 fs-xxl-1">Gynaecology, Abenka Care</p>
-                            <p class="text-600 mb-0">Melbourne, Australia</p>
-                            <p class="text-600 mb-4">12 years experience</p>
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
+                            <h5 class="mt-3">Maria Barrios</h5>
+                            <p class="mb-0 fs-xxl-1">Pediatra</p>
+                            <p class="text-600 mb-0">San Antonio, Panamá</p>
+                            <p class="text-600 mb-4">11 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-outline-secondary rounded-pill" type="submit">Ver Pefil</button>
                             </div>
@@ -275,11 +275,11 @@
                       </div>
                       <div class="col-md-4 mb-8 mb-md-0">
                         <div class="card card-span h-100 shadow">
-                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/gallery/leo-mario.png" width="128" alt="..." />
+                          <div class="card-body d-flex flex-column flex-center py-5"><img src="public/img/" width="128" alt="..." />
                             <h5 class="mt-3">Leo Mario</h5>
-                            <p class="mb-0 fs-xxl-1">Physiotherapy, FitCare</p>
-                            <p class="text-600 mb-0">London, England</p>
-                            <p class="text-600 mb-4">25 years experience</p>
+                            <p class="mb-0 fs-xxl-1">Cardiologo</p>
+                            <p class="text-600 mb-0">Chorrera, Panamá</p>
+                            <p class="text-600 mb-4">25 años de experiencia</p>
                             <div class="text-center">
                               <button class="btn btn-secondary hover-top rounded-pill border-0" type="submit">Ver Pefil</button>
                             </div>
@@ -295,108 +295,7 @@
         </div>
       </section>
 
-      <!-- AGENDAR CITA -->
-      <section class="py-5" id="cita">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 py-3">
-              <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/people.png);background-position:top center;background-size:contain;">
-              </div>
-              <h1 class="text-center">AGENDA TU CITA CON NOSOTROS</h1>
-            </div>
-          </div>
-        </div>
-      </section>
 
-      <section class="py-3" >
-        <div class="container">
-          <div class="row">
-            <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/dot-bg.png);background-position:bottom right;background-size:auto;">
-            </div>
-          
-            <div class="col-lg-6 z-index-2 mb-5"><img class="w-100" src="public/img/gallery/appointment.png" alt="..." /></div>
-            <div class="col-lg-6 z-index-2">
-              <form class="row g-3">
-              <div class="col-md-6">
-                  <label class="visually-hidden" for="inputName">Nombre</label>
-                  <input class="form-control form-livedoc-control" id="inputName" type="text" placeholder="Nombre" required/>
-                </div>
-                <div class="col-md-6">
-                  <label class="visually-hidden" for="inputLastName">Apellido</label>
-                  <input class="form-control form-livedoc-control" id="inputLastName" type="text" placeholder="Apellido" required/>
-                </div>
-                <div class="col-md-6">
-                  <label class="visually-hidden" for="inputID">Cédula</label>
-                  <input class="form-control form-livedoc-control" id="inputID" type="text" placeholder="Cédula" required/>
-                </div>
-                <div class="col-md-6">
-                  <label class="visually-hidden" for="inputPhone">Teléfono</label>
-                  <input class="form-control form-livedoc-control" id="inputPhone" type="text" placeholder="Teléfono" required/>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputEmail">Correo</label>
-                  <input class="form-control form-livedoc-control" id="inputEmail" type="email" placeholder="Correo" required/>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputCategory">Especialidad</label>
-                  <select class="form-select" id="inputCategory" required>
-                    <option selected="selected">Especialidad</option>
-                    <option> Neurología</option>
-                    <option> Oftalmología</option>
-                    <option> Radiología</option>
-                    <option> Cardiología</option>
-                    <option> Osteoporosis</option>
-                    <option> Otorrinología</option>
-                  </select>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputCategory">Horario de Preferencia</label>
-                  <select class="form-select" id="inputCategory" type="select" required>
-                    <option selected="selected">Horario</option>
-                    <option> AM</option>
-                    <option> PM</option>
-                  </select>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputCategory">Sede de Preferencia</label>
-                  <select class="form-select" id="inputCategory" type="select" required>
-                    <option selected="selected">Sede</option>
-                    <option> Pedregal</option>
-                    <option> Paitilla</option>
-                    <option> San Miguelito</option>
-                    <option> Vía España</option>
-                    <option> 24 de diciembre</option>
-                  </select>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputCategory">Tipo de cita</label>
-                  <select class="form-select" id="type" name="type" onchange="mostrar()" required>
-                    <option value="selected" selected="selected">Tipo</option>
-                    <option value="firstTime"> Primera Vez</option>
-                    <option value="control"> Control</option>
-                  </select>
-                </div>
-                <div class="col-md-6">
-                  <label class="form-label visually-hidden" for="inputCategory">Médico especialista</label>
-                  <select class="form-select" id="medico" required>
-                    <option selected="selected">Médico</option>
-                    <option> Luis Díaz</option>
-                    <option> José Mendéz</option>
-                    <option> David López</option>
-                    <option> María Pérez</option>
-                    <option> Valentina Aponte</option>
-                  </select>
-                </div>
-                <div class="col-12">
-                  <div class="d-grid">
-                    <button class="btn btn-primary rounded-pill" type="submit">Agendar Cita</button>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </section>
 
       <section class="py-5" id="blog">
         <div class="container">
@@ -422,19 +321,19 @@
                   <svg class="bi bi-calendar2 me-2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
-                  </svg><span class="fs--1 text-900">Nov 21, 2021</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">COVID-19: La información más reciente</h5><a class="stretched-link" href="#!">leer articulo completo</a>
+                  </svg><span class="fs--1 text-900">Nov 21, 2022</span><span class="fs--1"></span>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">COVID-19: La información más reciente</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
                 </div>
               </div>
             </div>
             <div class="col-sm-6 col-lg-3 mb-4">
               <div class="card h-100 shadow card-span rounded-3"><img class="card-img-top rounded-top-3" src="public/img/gallery/laboratories.png" alt="news" />
-                <div class="card-body"><span class="fs--1 text-primary me-3">Lifestyle</span>
+                <div class="card-body"><span class="fs--1 text-primary me-3">Estilo de Vida</span>
                   <svg class="bi bi-calendar2 me-2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
-                  </svg><span class="fs--1 text-900">Nov 25, 2021</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Importancia de la acreditación por laboratorios</h5><a class="stretched-link" href="#!">leer articulo completo</a>
+                  </svg><span class="fs--1 text-900">Nov 25, 2022</span><span class="fs--1"></span>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Importancia de la acreditación por laboratorios</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
                 </div>
               </div>
             </div>
@@ -444,8 +343,8 @@
                   <svg class="bi bi-calendar2 me-2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
-                  </svg><span class="fs--1 text-900">Nov 28, 2021</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Los daños de la nicotina que conducen a la muerte</h5><a class="stretched-link" href="#!">leer articulo completoe</a>
+                  </svg><span class="fs--1 text-900">Nov 28, 2022</span><span class="fs--1"></span>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Los daños de la nicotina que conducen a la muerte</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
                 </div>
               </div>
             </div>
@@ -455,8 +354,8 @@
                   <svg class="bi bi-calendar2 me-2" xmlns="http://www.w3.org/2000/svg" width="12" height="12" fill="currentColor" viewBox="0 0 16 16">
                     <path d="M3.5 0a.5.5 0 0 1 .5.5V1h8V.5a.5.5 0 0 1 1 0V1h1a2 2 0 0 1 2 2v11a2 2 0 0 1-2 2H2a2 2 0 0 1-2-2V3a2 2 0 0 1 2-2h1V.5a.5.5 0 0 1 .5-.5zM2 2a1 1 0 0 0-1 1v11a1 1 0 0 0 1 1h12a1 1 0 0 0 1-1V3a1 1 0 0 0-1-1H2z"></path>
                     <path d="M2.5 4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 .5.5v1a.5.5 0 0 1-.5.5H3a.5.5 0 0 1-.5-.5V4z"> </path>
-                  </svg><span class="fs--1 text-900">Nov 30, 2021</span><span class="fs--1"></span>
-                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Tratamiento en pacientes con diabetes en COVID-19</h5><a class="stretched-link" href="#!">leer articulo completo</a>
+                  </svg><span class="fs--1 text-900">Nov 30, 2022</span><span class="fs--1"></span>
+                  <h5 class="font-base fs-lg-0 fs-xl-1 my-3">Tratamiento en pacientes con diabetes en COVID-19</h5><a class="stretched-link" href="#!">Leer articulo completo</a>
                 </div>
               </div>
             </div>
@@ -488,11 +387,11 @@
                 <div class="carousel-item active" data-bs-interval="10000">
                   <div class="row h-100">
                     <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Edward Newgate</h5>
-                      <p class="fw-normal mb-0">Founder Circle</p>
+                      <h5 class="mt-3 fw-medium text-secondary">Horario de Atención</h5>
+                      <p class="fw-normal mb-0">Lunes - Domingo</p>
                     </div>
                     <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>Fantastic Response!</h2>
+                      <h2>05:00am - 2:00am</h2>
                       <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
                       <p></p>
                     </div>
@@ -501,11 +400,11 @@
                 <div class="carousel-item" data-bs-interval="2000">
                   <div class="row h-100">
                     <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Jhon Doe</h5>
-                      <p class="fw-normal mb-0">UI/UX Designer</p>
+                      <h5 class="mt-3 fw-medium text-secondary">Hopitalización</h5>
+                      <p class="fw-normal mb-0">Teléfonos y Extensiones</p>
                     </div>
                     <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>Fantastic Response!</h2>
+                      <h2>507-5719 / 507-5721 <br> 507-5720 / 507-5600</h2>
                       <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
                       <p></p>
                     </div>
@@ -514,11 +413,17 @@
                 <div class="carousel-item">
                   <div class="row h-100">
                     <div class="col-sm-3 text-center"><img src="public/img/gallery/people-who-loves.png" width="100" alt="" />
-                      <h5 class="mt-3 fw-medium text-secondary">Jeny Doe</h5>
-                      <p class="fw-normal mb-0">Web Designer</p>
+                      <h5 class="mt-3 fw-medium text-secondary">Laboratorio Cliníco</h5>
+                      <p class="fw-normal mb-0">Teléfonos y Extensiones</p>
                     </div>
                     <div class="col-sm-9 text-center text-sm-start pt-3 pt-sm-0">
-                      <h2>Fantastic Response!</h2>
+                      <h2>507-5713 Ext. (5713)
+                      <br> Citas: 
+                      <br>507-5714 Ext. (5714)
+                      <br>Área administrativa: 
+                      <br>507-5610 Ext. (5610)
+                      <br>507-5623 Ext. (5623) 
+                      <br>507-5627 Ext. (5627)</h2>
                       <div class="my-2"><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star me-2"></i><i class="fas fa-star-half-alt me-2"></i><i class="far fa-star"></i></div>
                       <p>.</p>
                     </div>
@@ -539,6 +444,7 @@
         </div>
       </section>
 
+      <!-- footer -->
       <section class="bg-primary">
         <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/cta-bg.png);background-position:center right;margin-top:-8.125rem;background-size:contain;">
         </div>

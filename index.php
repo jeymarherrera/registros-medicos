@@ -11,44 +11,26 @@ $controller = new Controller;
 if (isset($_GET['op']))
 {
     $opcion=$_GET['op'];
-    if ($opcion=="crear"){
-
-    //Llamo al método ver pasándole la clave que me están pidiendo
-    $controller->CrearUsuario();
+    if ($opcion=="blog"){
+        $controller->Blog();
     }
-    elseif ($opcion=="registrar"){
-
-    //Llamo al método ver pasándole la clave que me están pidiendo
-
-    $controller->Guardar();
+    elseif ($opcion=="agendar"){
+        $controller->AgendarCita();
     }
-    elseif ($opcion=="acceder"){
-
-        //Llamo al método ver pasándole la clave que me están pidiendo
-    
+    elseif ($opcion=="ingresar"){
         $controller->Ingresar();
      }
     elseif ($opcion=="permitido"){
-
-        //Llamo al método ver pasándole la clave que me están pidiendo
-    
         $controller->IngresarPanel();
     }
     elseif ($opcion=="recuperar"){
-
-        //Llamo al método ver pasándole la clave que me están pidiendo
-    
         $controller->RecuperarContrasena();
     }
     else{
-
-    //Llamo al método por defecto del controlador
         $controller->Index();
     }
 }
 else{
-
-        //Llamo al método por defecto del controlador
-        $controller->Index();
+    $controller->Index();
     }
 

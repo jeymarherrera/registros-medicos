@@ -9,7 +9,7 @@
               <li class="nav-item px-2"><a class="nav-link" href="#departments">Médicos</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#signup">Blog</a></li>
               <li class="nav-item px-2"><a class="nav-link" href="#findUs">Contactos</a></li>
-            </ul><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="?op=crear">Agendar Cita</a>
+            </ul><a class="btn btn-sm btn-outline-primary rounded-pill order-1 order-lg-0 ms-lg-4" href="?op=agendar">Agendar Cita</a>
         </div>
     </div>
 </nav>

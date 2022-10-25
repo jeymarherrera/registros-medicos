@@ -455,7 +455,7 @@
                         <div class="col-12 col-sm-6 text-center text-sm-end">
                             Designed By <a href="https://htmlcodex.com">HTML Codex</a>
                         </br>
-                        Distributed By <a class="border-bottom" href="https://themewagon.com" target="_blank">ThemeWagon</a>
+                        Distributed By <a class="border-bottom" href="""target="_blank"></a>
                         </div>
                     </div>
                 </div>
