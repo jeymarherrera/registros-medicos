@@ -11,7 +11,7 @@
   <link rel="shortcut icon" type="image/x-icon" href="public/img/logo.png">
   <link rel="manifest" href="public/img/favicons/manifest.json">
   <meta name="theme-color" content="#ffffff">
-  <link href="public/css/theme.css" rel="stylesheet"/>
+  <link href="public/lib/theme.css" rel="stylesheet"/>
 </head>
 
 <body> 
@@ -45,13 +45,11 @@
             </div>
         </div>
     </div>
-    <script src="public/js/vendors/@popperjs/popper.min.js"></script>
     <script src="public/js/vendors/bootstrap/bootstrap.min.js"></script>
     <script src="public/js/vendors/is/is.min.js"></script>
     <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="public/js/vendors/fontawesome/all.min.js"></script>
-    <script src="public/js/theme.js"></script>
+    <script src="public/lib/theme.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
