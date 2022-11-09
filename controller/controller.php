@@ -18,6 +18,10 @@ class Controller
         require("view/signup.php");
     }
 
+    public function IngresarPanel(){
+        require("view/signup.php");
+    }
+
     public function RecuperarContrasena(){
         require("view/forgot.php");
     }

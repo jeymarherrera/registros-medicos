@@ -408,7 +408,6 @@
     <script src="public/js/vendors/is/is.min.js"></script>
     <script src="https://scripts.sirv.com/sirvjs/v3/sirv.js"></script>
     <script src="https://polyfill.io/v3/polyfill.min.js?features=window.scroll"></script>
-    <script src="public/js/vendors/fontawesome/all.min.js"></script>
     <script src="public/js/theme.js"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="preconnect" href="https://fonts.googleapis.com">
