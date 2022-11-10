@@ -19,15 +19,33 @@ class Controller
     }
 
     public function IngresarPanel(){
-        require("view/signup.php");
+        require("view/dashboard.php");
     }
 
     public function RecuperarContrasena(){
         require("view/forgot.php");
     }
 
-    public function RegistrarPaciente(){
+    public function Registrar(){
         require("view/signin.php");
     }
+    
+    public function Pacientes(){
+        require("view/pacientes.php");
+    }
 
+    public function nuevoPacientes(){
+        require("view/agregar-paciente.php");
+    }
+
+    public function nuevaCita(){
+        require("view/agregar-cita.php");
+    } 
+    public function Expedientes(){
+        require("view/expedientes.php");
+    }
+
+    public function Reportes(){
+        require("view/reportes.php");
+    }
 }

@@ -20,8 +20,23 @@ if (isset($_GET['op']))
     elseif ($opcion=="ingresar"){
         $controller->Ingresar();
      }
-    elseif ($opcion=="permitido"){
+    elseif ($opcion=="panel"){
         $controller->IngresarPanel();
+    }
+    elseif ($opcion=="expedientes"){
+        $controller->Expedientes();
+    }
+    elseif ($opcion=="pacientes"){
+        $controller->Pacientes();
+    }
+    elseif ($opcion=="nuevoPaciente"){
+        $controller->nuevoPacientes();
+    }
+    elseif ($opcion=="nuevaCita"){
+        $controller->nuevaCita();
+    }
+    elseif ($opcion=="reportes"){
+        $controller->Reportes();
     }
     elseif ($opcion=="recuperar"){
         $controller->RecuperarContrasena();

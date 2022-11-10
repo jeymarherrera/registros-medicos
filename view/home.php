@@ -359,7 +359,7 @@
       </section> 
 
       <!-- footer -->
-      <section class="bg-primary">
+      <section class="bg-primary" >
         <div class="bg-holder bg-size" style="background-image:url(public/img/gallery/cta-bg.png);background-position:center right;margin-top:-8.125rem;background-size:contain;">
         </div>
         </div>
@@ -367,7 +367,7 @@
       <section class="py-0 bg-secondary">
         <div class="bg-holder opacity-25" style="background-image:url(public/img/gallery/dot-bg.png);background-position:top left;margin-top:-3.125rem;background-size:auto;">
         </div>
-        <div class="container">
+        <div class="container" id="contact">
           <div class="row py-8">
             <div class="col-12 col-sm-12 col-lg-6 mb-4 order-0 order-sm-0"><a class="text-decoration-none" href="#"><img src="" height="51" alt="" /></a>
               <p class="text-light my-4">Lo que el mundo de la salud necesita <br/>tecnología de la salud.</p>
